@@ -1,5 +1,5 @@
-#ifndef _U_TILE_U_
-#define _U_TILE_U_
+#ifndef _CAT_TILE_CAT_
+#define _CAT_TILE_CAT_
 
 namespace catan {
 
